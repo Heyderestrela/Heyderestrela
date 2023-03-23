@@ -1,14 +1,8 @@
 ## Olá! Eu sou Heyder.
 
-- 💻 Graduando em Sistema de Informação
-- 📚 Estudando Desenvolvimento Web
+- 💻 Graduando em Sistema de Informação, 5º período
+- 📚 Estudando Desenvolvimento Web na Rocketseat.
 - 🔎 Procurando estágio/trabalho como Desenvolvedor Web/ Desenvolvedor Python
-
-<div>
-  <a href="https://github.com/heyderestrela">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heyderestrela&show_icons=true&theme=tokyonight">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyderestrela&layout=compact&langs_count=8&theme=tokyonight">
-</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Heyder-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
